@@ -1,0 +1,26 @@
+h1 {
+    color: #84482D;
+    text-align: center;
+}
+
+
+p {
+    color: #1C1D1F;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+
+
+.image-cointainer {
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid #BE6841;
+    padding: 20px;
+}
+
+ .image-cointainer img {
+    width: 150px;
+    margin: 10px;
+}
+}
